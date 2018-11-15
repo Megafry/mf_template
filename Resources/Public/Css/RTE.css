@@ -1,0 +1,18 @@
+a {
+  color: #f00;
+}
+
+a.btn-primary {
+  display: inline-block;
+  text-decoration: none;
+  text-align: center;
+  vertical-align: middle;
+  border: 1px solid transparent;
+  white-space: nowrap;
+  padding: 6px 12px;
+  border-radius: 4px;
+
+  color: #ffffff;
+  background-color: #f8434a;
+  border-color: #f72a32;
+}
