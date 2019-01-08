@@ -12,6 +12,7 @@
 ##Lib
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:mf_template/Configuration/TypoScript/Lib/getContent.ts">
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:mf_template/Configuration/TypoScript/Lib/mainNav.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:mf_template/Configuration/TypoScript/Lib/languageNav.ts">
 
 ##tt_content:
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:mf_template/Configuration/TypoScript/Tt_content/Gridelement/setup.ts">

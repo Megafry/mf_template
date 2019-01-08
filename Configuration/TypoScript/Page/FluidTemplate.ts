@@ -12,6 +12,14 @@ page {
       }
       variables {
 
-      }
+			}
+			dataProcessing {
+				30 = TYPO3\CMS\Frontend\DataProcessing\MenuProcessor
+				30 {
+						special = language
+						special.value = auto
+						as = langmenu
+				}
+			}
   }
 }
